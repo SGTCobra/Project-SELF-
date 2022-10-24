@@ -1,7 +1,7 @@
 # Projeto Self
 
 [![Para os audazes aventureiros!]
-(/assets/images/faixa.png)](<img alt="cartaodevisita" title="Bemvindo" src="/assets/images/mago.png" width="50" height="50" />)
+(faixa.png)](<img alt="cartaodevisita" title="Bemvindo" src="mago.png" width="50" height="50" />)
 
 Um software para foco e produtividade.
 
