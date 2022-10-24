@@ -1,7 +1,6 @@
 # Projeto Self
 
-[Para os audazes aventureiros!]
-(faixa.png)]<img alt="cartaodevisita" title="Bemvindo" src="mago.png" width="50" height="50" />
+## Para os audazes aventureiros! <img alt="cartaodevisita" title="Bemvindo" src="mago.png" width="100" height="100" />
 
 Um software para foco e produtividade.
 
@@ -31,7 +30,7 @@ Capturas de telas do programa, veja logo abaixo:
 * Vantagem única de reunir ferramentas importantes para a eficiência nos estudos, sem que haja a necessidade de instalar diversos softwares diferentes, o que traria uma perda de tempo e energia desnecessária.
 * Based on [Python 3](https://www.python.org/), [Pillow](https://pillow.readthedocs.io), and [Qt5](https://www.qt.io/developers/)
 
-### Genisis
+### Genesis
 Iniciamos esse projeto no início de 2022, o objetivo é desenvolver um software para o TCC de informática. Tivemos a idéia depois de discurtirmos as necessidades de um autodidata para se organizar da melhor maneira, gerenciar o estresse e não se sobrecarregar no caminho, de forma a ter melhores resultados em seu aprendizado. Está ferramenta foi desenvolvida com base nos conhecimentos da psicologia e da neurociência, para que haja a maxima eficiência e conforto para o usuário.
 
 ## Instalação e como usar
